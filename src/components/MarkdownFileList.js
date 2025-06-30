@@ -5,76 +5,76 @@ const projectMarkdownFiles = {
     {
       name: 'Deepfake_README.md',
       title: 'Main Documentation',
-      path: '/docs/Deepfake_README.md'
+      path: `${process.env.PUBLIC_URL}/docs/Deepfake_README.md`
     }
   ],
   1: [ // Blockchain
     {
       name: 'TokenLand_Documentation.md',
       title: 'TokenLand Documentation',
-      path: '/docs/TokenLand_Documentation.md'
+      path: `${process.env.PUBLIC_URL}/docs/TokenLand_Documentation.md`
     }
   ],
   3: [ // Real-Time Threat Intelligence System
     {
       name: 'README.md',
       title: 'Project Overview',
-      path: '/docs/cybersecurity/README.md'
+      path: `${process.env.PUBLIC_URL}/docs/cybersecurity/README.md`
     },
     {
       name: 'system_walkthrough.markdown',
       title: 'System Walkthrough',
-      path: '/docs/cybersecurity/system_walkthrough.markdown'
+      path: `${process.env.PUBLIC_URL}/docs/cybersecurity/system_walkthrough.markdown`
     },
     {
       name: 'tech_stack.md',
       title: 'Technology Stack',
-      path: '/docs/cybersecurity/tech_stack.md'
+      path: `${process.env.PUBLIC_URL}/docs/cybersecurity/tech_stack.md`
     },
     {
       name: 'security_audit.md',
       title: 'Security Audit',
-      path: '/docs/cybersecurity/security_audit.md'
+      path: `${process.env.PUBLIC_URL}/docs/cybersecurity/security_audit.md`
     },
     {
       name: 'system_manual.md',
       title: 'System Manual',
-      path: '/docs/cybersecurity/system_manual.md'
+      path: `${process.env.PUBLIC_URL}/docs/cybersecurity/system_manual.md`
     },
     {
       name: 'user_guide.md',
       title: 'User Guide',
-      path: '/docs/cybersecurity/user_guide.md'
+      path: `${process.env.PUBLIC_URL}/docs/cybersecurity/user_guide.md`
     },
     {
       name: 'nist_framework_summary.md',
       title: 'NIST Framework Summary',
-      path: '/docs/cybersecurity/nist_framework_summary.md'
+      path: `${process.env.PUBLIC_URL}/docs/cybersecurity/nist_framework_summary.md`
     },
     {
       name: 'api_research.md',
       title: 'API Research',
-      path: '/docs/cybersecurity/api_research.md'
+      path: `${process.env.PUBLIC_URL}/docs/cybersecurity/api_research.md`
     },
     {
       name: 'osint_framework.md',
       title: 'OSINT Framework',
-      path: '/docs/cybersecurity/osint_framework.md'
+      path: `${process.env.PUBLIC_URL}/docs/cybersecurity/osint_framework.md`
     },
     {
       name: 'security_validation.md',
       title: 'Security Validation',
-      path: '/docs/cybersecurity/security_validation.md'
+      path: `${process.env.PUBLIC_URL}/docs/cybersecurity/security_validation.md`
     },
     {
       name: 'deployment_checklist.md',
       title: 'Deployment Checklist',
-      path: '/docs/cybersecurity/deployment_checklist.md'
+      path: `${process.env.PUBLIC_URL}/docs/cybersecurity/deployment_checklist.md`
     },
     {
       name: 'troubleshooting_guide.md',
       title: 'Troubleshooting Guide',
-      path: '/docs/cybersecurity/troubleshooting_guide.md'
+      path: `${process.env.PUBLIC_URL}/docs/cybersecurity/troubleshooting_guide.md`
     }
   ]
 };

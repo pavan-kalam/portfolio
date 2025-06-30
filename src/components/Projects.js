@@ -9,14 +9,14 @@ const projects = [
     description: 'Developed a convolution Neural Network (CNN) based project to identify AI-generated or edited images, enhancing digital content authenticity. Focused on image processing and deep learning techniques for robust detection.',
     icon: <FaBrain />,
     background: 'linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)',
-    image: '/project_images/deepfake_cnn.png',
+    image: `${process.env.PUBLIC_URL}/project_images/deepfake_cnn.png`,
   },
   {
     title: 'Blockchain-Based Real Estate Management System',
     description: 'Designed and implemented a secure real estate management system leverage blockchain technology. Enabled all real estate transactions to be conducted using Ethereum coins, ensuring transparency and immutability.',
     icon: <FaEthereum />,
     background: 'linear-gradient(135deg, #00c6fb 0%, #005bea 100%)',
-    image: '/project_images/blockchain.png',
+    image: `${process.env.PUBLIC_URL}/project_images/blockchain.png`,
   },
   {
     title: 'AI Call Agent With RAG Strategy',
@@ -30,7 +30,7 @@ const projects = [
     description: 'Developed a cybersecurity project focused on real-time threat intelligence for organization security. Utilized OSINT tools to monitor threats and integrated Machine Learning models to accelerate the threat mitigation process.',
     icon: <FaShieldAlt />,
     background: 'linear-gradient(135deg, #8360c3 0%, #2ebf91 100%)',
-    image: '/project_images/security_project.png',
+    image: `${process.env.PUBLIC_URL}/project_images/security_project.png`,
   },
 ];
 
