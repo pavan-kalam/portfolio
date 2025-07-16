@@ -6,15 +6,16 @@ function Experience() {
     <section id="experience">
       <h2>Experience</h2>
       <div className="experience-item">
-        <h3>Assistant System Administrator.</h3>
-        <p>Tata Consultancy Services</p>
-        <p>Bangalore, India | April 2021 - Nov 2023</p>
+        <h3>Data Scientist</h3>
+        <p>Aircom Systems Pvt. Ltd</p>
+        <p>Bangalore, India | Oct 2020 – Dec 2023</p>
         <ul>
-          <li>Spearheaded the creation and maintenance of servers in AWS.</li>
-          <li>Leveraged AWS database services.</li>
-          <li>Demonstrated expertise in PostgreSQL for efficient database management.</li>
-          <li>Successfully executed data retrieval and manipulation tasks from databases.</li>
-          <li>Partnered with cross-functional teams to optimize server performance and security.</li>
+          <li>Developed and deployed supervised and unsupervised machine learning models for classification, forecasting, and clustering using Python (scikit-learn, TensorFlow and Keras).</li>
+          <li>Wrote SQL queries in PostgreSQL for data extraction, transformation, and feature engineering to support model development.</li>
+          <li>Collaborated closely with Data Engineers to design scalable ETL pipelines and containerized ML workflows using Docker.</li>
+          <li>Conducted statistical analysis, data profiling, and hypothesis testing to validate business assumptions and model performance.</li>
+          <li>Integrated NIST Cybersecurity Framework standards to ensure secure data handling, access control, and audit readiness throughout the ML lifecycle.</li>
+          <li>Created dynamic dashboards and visual reports using Power BI and Plotly to present insights and recommendations to stakeholders.</li>
         </ul>
       </div>
     </section>

@@ -4,7 +4,7 @@ import { FaCode, FaChartBar, FaRobot, FaDatabase, FaCloud, FaServer, FaReact, Fa
 const skills = {
   "Programming Languages": { icon: <FaCode />, list: ["Python", "Java", "C++", "JavaScript"] },
   "Data Analysis & Visualization": { icon: <FaChartBar />, list: ["Power BI", "Tableau", "Matplotlib", "Pandas"] },
-  "Machine Learning & AI": { icon: <FaRobot />, list: ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"] },
+  "Machine Learning & AI": { icon: <FaRobot />, list: ["TensorFlow", "N8N", "PyTorch", "Scikit-learn", "Keras"] },
   "Big Data Technologies": { icon: <FaDatabase />, list: ["Apache Hadoop", "Apache Spark", "Apache Kafka"] },
   "Cloud Platforms": { icon: <FaCloud />, list: ["AWS", "Google Cloud Platform (GCP)", "Microsoft Azure"] },
   "Database Management": { icon: <FaServer />, list: ["PostgreSQL", "MySQL", "MongoDB", "Oracle"] },

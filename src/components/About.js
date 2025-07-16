@@ -7,15 +7,16 @@ function About() {
         <div className="about-content">
           <div className="about-intro">
             <h1 className="about-name">Pavan Kalam</h1>
-            <h2 className="about-title">Computer Science Specialist with Data Analysis Expertise</h2>
+            <h2 className="about-title">Computer Science Specialist with Data Science Expertise</h2>
             <div className="about-divider"></div>
           </div>
           
           <div className="about-description">
             <p className="about-summary">
-              Passionate Computer Science professional with expertise in cybersecurity, machine learning, 
-              and blockchain technology. Experienced in developing innovative solutions for real-world problems, 
-              from deepfake detection systems to blockchain-based real estate management platforms.
+            Aspiring to contribute as a Data Scientist by applying strong proficiency in machine learning, 
+            data analysis, and statistical modeling to solve complex business challenges. 
+            Bringing hands-on experience in developing end-to-end ML solutions, ensuring data security compliance, 
+            and delivering actionable insights through advanced analytics and visualizations.
             </p>
             
             <div className="about-highlights">
@@ -56,7 +57,7 @@ function About() {
                 <span className="stat-label">Technologies</span>
               </div>
               <div className="stat-item">
-                <span className="stat-number">2+</span>
+                <span className="stat-number">3+</span>
                 <span className="stat-label">Years Experience</span>
               </div>
             </div>
